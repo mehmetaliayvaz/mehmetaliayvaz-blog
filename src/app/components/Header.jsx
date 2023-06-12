@@ -4,7 +4,7 @@ function Header({ className }) {
   return (
     <header className={className}>
       <div className="container">
-        <ul className="flex py-5 text-lg space-x-10">
+        <ul className="flex py-10 text-lg space-x-10">
           <li>
             <Link href="/">Home</Link>
           </li>

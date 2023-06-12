@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Aralıklı Tekrar Tekniği ile Kalıcı Öğrenmek",
+      "description": "Belli bir konuyu veya bilgileri öğrenmek için farklı teknikler kullanılabilir. Bu yazıda sizlere Hermann Ebbinghaus’un aralıklı tekrar tekniğinden bahsedeceğim.",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*t3oJf0hFGSmyJ7D9.jpg",
+      "url": "https://medium.com/@mehmetaliayvaz/aral%C4%B1kl%C4%B1-tekrar-tekni%C4%9Fi-ile-kal%C4%B1c%C4%B1-%C3%B6%C4%9Frenmek-e169daa94f87"
+    },
+    {
+      "id": 2,
+      "title": "Stourl.com’u Nasıl Geliştirdim?",
+      "description": "Merhabalar, bu yazımda Stourl.com‘u nasıl geliştirdiğimi, geliştirirken neler kullandığım hakkında bilgi vereceğim. Öncelikle Stourl ne işe yarıyor, kısaca bundan bahsedeyim. Stourl ile linklerinizi kaydedebilir, linkleri bir araya getirerek liste oluşturabilir, insanlarla kaydettiğiniz linkleri ve oluşturduğunuz listeleri paylaşabilirsiniz.",
+      "image": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*WtoI8NEN53VsvILh.jpg",
+      "url": "https://medium.com/@mehmetaliayvaz/stourl-comu-nas%C4%B1l-geli%C5%9Ftirdim-db47f994c6"
+    }
+  ]
+}
