@@ -14,7 +14,7 @@ module.exports = {
         },
       },
       colors: {
-        dark: "rgb(11, 11, 15)",
+        dark: "#151517",
       },
       backgroundImage: {},
       fontFamily: {
