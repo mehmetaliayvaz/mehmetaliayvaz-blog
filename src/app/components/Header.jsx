@@ -18,7 +18,7 @@ function Header({ className }) {
             <Link href="/blog">Blog</Link>
           </li>
           <li>
-            <Link href="/about-contact">About - Contact</Link>
+            <Link href="/about">About</Link>
           </li>
         </ul>
       </div>
