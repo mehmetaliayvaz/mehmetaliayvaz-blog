@@ -14,7 +14,7 @@ function Blog() {
               href={article.url}
               key={index}
               target="_blank"
-              className="flex space-x-5"
+              className="flex flex-col md:flex-row space-y-5 md:space-y-0 md:space-x-5"
             >
               <img
                 src={article.image}
