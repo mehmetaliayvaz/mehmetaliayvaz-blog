@@ -1,6 +1,6 @@
 function AppLayout({ title, description, children }) {
   return (
-    <div className="py-40">
+    <div className="py-20 md:py-40">
       <div className="container">
         <div>
           <div className="text-center mb-20">
