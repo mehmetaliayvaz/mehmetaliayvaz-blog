@@ -48,6 +48,10 @@ function About() {
           <span>mehmetaliayvaz61@gmail.com</span>
         </a>
       </div>
+      <p className="text-white text-center my-10">
+        You can access the codes of this website{" "}
+        <a href="https://github.com/mehmetaliayvaz/mehmetaliayvaz-blog" target="_blank" className="text-red-500">here.</a>
+      </p>
     </AppLayout>
   );
 }
