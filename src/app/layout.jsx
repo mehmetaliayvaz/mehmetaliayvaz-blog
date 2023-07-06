@@ -10,7 +10,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className="gradient-background min-h-screen">
-        <Header className="absolute top-0 left-1/2 -translate-x-1/2" />
+        <Header />
         <main>{children}</main>
       </body>
     </html>

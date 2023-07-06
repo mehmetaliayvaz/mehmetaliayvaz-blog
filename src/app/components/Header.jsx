@@ -18,9 +18,9 @@ function Header({ className }) {
 
   return (
     <>
-      <header className={`${className} relative`}>
+      <header className="md:absolute top-0 left-1/2 -translate-x-1/2 relative">
         <div className="container">
-          <ul className="hidden md:flex py-10 text-lg space-x-10">
+          <ul className="hidden md:flex justify-center py-10 text-lg space-x-10">
             {
               nav.map((item, index) => (
                 <li key={index}>
@@ -29,7 +29,7 @@ function Header({ className }) {
               ))
             }
           </ul>
-          <button className="absolute top-4 right-4 z-10" onClick={() => setShowMenu(true)}>
+          <button className="md:hidden absolute top-4 right-4 z-10" onClick={() => setShowMenu(true)}>
             <MenuIcon />
           </button>
         </div>
