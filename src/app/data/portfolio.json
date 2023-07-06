@@ -3,21 +3,21 @@
     {
       "id": 1,
       "title": "Stourl",
-      "description": "A simple URL shortener",
+      "description": "With Stourl, you can save your links, make a list, and share them with people.",
       "img": "/assets/images/stourl.png",
       "url": "https://stourl.com"
     },
     {
       "id": 2,
       "title": "Vue3-Sound-Player",
-      "description": "A simple sound player built with Vue3",
+      "description": "A sound library that you can use in your Vue3 projects.",
       "img": "/assets/images/vue3-sound-player.png",
       "url": "https://www.npmjs.com/package/vue3-sound-player"
     },
     {
       "id": 3,
       "title": "Personal Blog",
-      "description": "A personal blog built with Vuepress",
+      "description": "Personal blog project developed with Statamic CMS.",
       "img": "/assets/images/blog.png",
       "url": "https://github.com/mehmetaliayvaz/personal-blog"
     }
